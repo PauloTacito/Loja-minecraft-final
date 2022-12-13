@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  min-height: 3.9vh;
+  display: grid;
+  place-items: end;
+  padding: 0 20px 20px 0;
+  border-bottom: 0.1vh solid rgb(2, 112, 8);
+  background: url(../images/gabriel.jpg);
+  background-size: contain;
+}
+
+section {
+  background: url(../images/fundo\ 2.jpg);
+  background-size: contain;
+}
+#menu a {
+  margin: 10px;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: #aaee33;
+}
+#Letras {
+  color: #aaee33;
+  justify-self: center;
+  margin-top: 30px;
+  text-transform: none;
+}
+
+#accounts img {
+  width: 100%;
+}
+#texto {
+  display: grid;
+  justify-items: center;
+}
+#texto h1 {
+  text-align: center;
+  color: #aaee33;
+  font-size: 50px;
+  display: grid;
+}
+
+#texto p {
+  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  display: grid;
+  margin-bottom: 10px;
+  width: 50%;
+  text-align: center;
+}
+#xd {
+  min-height: 3.9vh;
+  display: grid;
+  place-items: initial;
+  padding: 20px 0px 0px 0;
+  border-top: 0.1vh solid rgb(2, 112, 8);
+  margin-top: 1vh;
+}
+
+#texto-dois {
+  display: grid;
+  justify-items: center;
+}
+#texto-dois h1 {
+  text-align: center;
+  color: #aaee33;
+  font-size: 50px;
+  display: grid;
+}
+
+#texto-dois p {
+  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+  display: grid;
+  margin-bottom: 10px;
+  width: 50%;
+  text-align: center;
+}

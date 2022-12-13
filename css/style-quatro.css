@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  header {
+    min-height: 3.9vh;
+    display: grid;
+    place-items: end;
+    padding: 0 20px 20px 0;
+    border-bottom: 0.1vh solid rgb(2, 112, 8);
+    background: url(../images/gabriel.jpg);
+    background-size: contain;
+  }
+  
+  section {
+    background: url(../images/fundo\ 2.jpg);
+    background-size: contain;
+
+  }
+  
+  #Letras {
+    color: #aaee33;
+    justify-self: center;
+    margin-top: 30px;
+  }
+  
+  #menu a {
+    margin: 10px;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #aaee33;
+  }
+
+  section h1 {
+    text-align: center;
+    color: #aaee33;
+    text-transform: uppercase;
+  margin-bottom: 
+  50px;
+  }
+
+ #ceara {
+  text-align: center;
+ }
+
+ #ceara img {
+  width: 70px;
+  margin-top: 20px;
+ }
+
+  section li {
+    color: #aaee33;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  #ps {
+    text-align: initial;
+    color: #aaee33;
+    margin-top:196px;
+    font-size: 20px;
+  }
+
+  footer {
+    min-height: 3.9vh;
+    display: grid;
+    place-items: initial;
+    padding: 20px 20px 0px 0;
+    border-top: 0.1vh solid rgb(2, 112, 8);
+    margin-top: 1vh;
+  }
